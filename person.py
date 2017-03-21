@@ -1,4 +1,4 @@
-class Person(object):
+class Person():
     '''
     class to define Person
     '''
@@ -30,12 +30,4 @@ class Person(object):
         #self.s = attr_list[3]
         #self.f = attr_list[4]
         #self.c = attr_list[5]
-
-
-
-
-
-
-
-
 
